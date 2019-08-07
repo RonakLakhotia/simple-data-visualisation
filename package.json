@@ -1,0 +1,22 @@
+{
+  "name": "simple-data-visualisation",
+  "version": "1.0.0",
+  "description": "Shows simple data visualisation for data in Postgresql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanneong/simple-data-visualisation.git"
+  },
+  "author": "Joanne Ong <joanneongcf@u.nus.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanneong/simple-data-visualisation/issues"
+  },
+  "homepage": "https://github.com/joanneong/simple-data-visualisation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
