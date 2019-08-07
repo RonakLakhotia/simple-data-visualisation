@@ -3,6 +3,6 @@
 This is a simple web application to visualise data in a database.
 
 ## Tech stack
-Frontend: ReactJS
-Backend: Postgresql
-Server-side: NodeJS + Express
+- Frontend: ReactJS
+- Backend: Postgresql
+- Server-side: NodeJS + Express
